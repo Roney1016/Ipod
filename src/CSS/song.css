@@ -1,0 +1,14 @@
+.song{
+    height: 100%;
+    border-radius: 0 0 10px 10px;
+    background-color: antiquewhite;
+    padding: 0 20px;
+    overflow: hidden;
+}
+
+.song h3{
+    text-decoration: underline;
+}
+.song li{
+    padding: 5px 5px;
+}

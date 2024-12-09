@@ -1,0 +1,16 @@
+.theme{
+    height: 100%;
+    border-radius: 0 0 10px 10px;
+    background-color: antiquewhite;
+    padding: 0 20px;
+    overflow: hidden;
+    scrollbar-width: none; /* Hide scrollbar in Firefox */
+    -ms-overflow-style: none;
+}
+
+.theme h3{
+    text-decoration: underline;
+}
+.theme li{
+    padding: 5px 5px;
+}

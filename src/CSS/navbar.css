@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1px 5px;
+    border-radius:10px 10px 0 0;
+    background-color: antiquewhite;
+    border-bottom: 0.8px solid black;
+}
+
+.heading{
+    font-weight: 700;
+}
+
+/* .battary{
+    font-size: 1rem;
+    width: 50px;
+    height: 10px;
+    overflow: hidden;
+} */

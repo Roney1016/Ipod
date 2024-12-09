@@ -1,0 +1,10 @@
+.music{
+    height: 100%;
+    border-radius: 0 0 10px 10px;
+    background-color: antiquewhite;
+    padding: 0 20px;
+}
+
+.music h3{
+    text-decoration: underline;
+}

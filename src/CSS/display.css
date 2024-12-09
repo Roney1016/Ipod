@@ -1,0 +1,16 @@
+.display{
+    width: 90%;
+    height: 250px;
+    background-color: black;
+    display: flex;
+    
+    background-size: cover;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 0;
+    
+}

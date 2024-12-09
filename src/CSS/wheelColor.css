@@ -1,0 +1,10 @@
+.wheel-color{
+    height: 100%;
+    border-radius: 0 0 10px 10px;
+    background-color: antiquewhite;
+    padding: 0 20px;
+}
+
+.wheel-color h3{
+    text-decoration: underline;
+}
